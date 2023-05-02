@@ -4,4 +4,5 @@
 + Legajo: 1776290
 + Nombre: Anna Catherine 
 + Apellido: Vidal
-+ El compilador utilizado es MinGW
++ El compilador utilizado es g++
++ Compila en versión C++20
